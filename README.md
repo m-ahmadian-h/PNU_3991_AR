@@ -14,4 +14,4 @@
 * Project lesson evaluation summary
 * Internship lesson evaluation summary
 # Autumn Semester Courses 1399/2020
-
+# Day and hour of lessons
