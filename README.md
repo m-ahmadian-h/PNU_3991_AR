@@ -27,7 +27,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 
 ## _Public section_
 
-## _Undergraduate courses_
+## _Undergraduate course_
 
 * Project lesson evaluation summary
 * Internship lesson evaluation summary
@@ -37,6 +37,6 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 ## _Day and hour of lessons_
 
 |Course          |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
-|------          |-------|-------|-------|---------|--------|------|--------|
+|------          |:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
 |Bachelor Project|19 - 20|19 - 20|19 - 20| 19 - 20 |        |      | 19 - 20|
 |The internship  |9 - 13 | 9 - 13| 9 - 13| 9 - 13  |        |      | 9 - 13 |
