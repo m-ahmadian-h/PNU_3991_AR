@@ -2,7 +2,7 @@
 
 Summary of 7th semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering.
 
-## _Mohammad Ahmadian Honarmand_
+## _Mohammad Ahmadian Honarmand_ ![ME](https://avatars.githubusercontent.com/u/74069171?s=60&u=1d5406e96181a71608f69d7a020805eb78a8ee9e&v=4)
 
 *  __[GitHub](https://github.com/m-ahmadian-h)__
    * __[Repositories](https://github.com/m-ahmadian-h?tab=repositories)__
