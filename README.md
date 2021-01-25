@@ -1,36 +1,37 @@
-# PNU_3991_AR
+# _PNU_3991_AR_
 
 Summary of 7th semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering.
 
-## Mohammad Ahmadian Honarmand
+## _Mohammad Ahmadian Honarmand_
 
 *  __[GitHub](https://github.com/m-ahmadian-h)__
    * __[Repositories](https://github.com/m-ahmadian-h?tab=repositories)__
       * __[PNU_3991_AR](https://github.com/m-ahmadian-h/PNU_3991_AR)__
       
 * __[ME](https://github.com/m-ahmadian-h)__
-   * __[resume](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/resume.pdf)__
+   * __[Resume](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/resume.pdf)__
    * __[SOP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/SOP.pdf)__
+   * __~~[Site](https://expertmql4.ir/)~~__
    
 * __Certificates__
-   * Jlord Patchwork
+   * __Jlord Patchwork__
    * __[HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/html.pdf)__
-   * CSS
-   * Javascript
-   * PHP
+   * __CSS__
+   * __Javascript__
+   * __PHP__
    
 * __Courses__
-   * Bachelor Project
-   * the internship
+   * __Bachelor Project__
+   * __the internship__
  
 
-## Public section
+## _Public section_
 
-## Undergraduate courses
+## _Undergraduate courses_
 
 * Project lesson evaluation summary
 * Internship lesson evaluation summary
 * 
-## Autumn Semester Courses 1399/2020
+## _Autumn Semester Courses 1399/2020_
 
-## Day and hour of lessons
+## _Day and hour of lessons_
