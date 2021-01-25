@@ -22,7 +22,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    
 * __Courses__
    * __Bachelor Project__
-   * __the internship__
+   * __The internship__
  
 
 ## _Public section_
@@ -35,3 +35,8 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 ## _Autumn Semester Courses 1399/2020_
 
 ## _Day and hour of lessons_
+
+|Course          |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
+|------          |-------|-------|-------|---------|--------|------|--------|
+|Bachelor Project|19 - 20|19 - 20|19 - 20| 19 - 20 |        |      | 19 - 20|
+|The internship  |9 - 13 | 9 - 13| 9 - 13| 9 - 13  |        |      | 9 - 13 |
