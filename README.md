@@ -1,6 +1,5 @@
 # PNU_3991_AR
-Summary of activities of a semester at the university
-# Mohammad Ahmadian Honarmand
+Summary of 7th semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering.# Mohammad Ahmadian Honarmand
 * github
 * PNU_3991_AR
 * resume
