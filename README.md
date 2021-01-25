@@ -1,4 +1,5 @@
 # PNU_3991_AR
+Summary of activities of a semester at the university
 # Mohammad Ahmadian Honarmand
 * github
 * PNU_3991_AR
