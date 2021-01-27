@@ -1,5 +1,4 @@
 ![header](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/header.jpg)
-![a](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/271/face-with-tears-of-joy_1f602.png)
 # _PNU_3991_AR_
 
 Summary of 7th semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering.
