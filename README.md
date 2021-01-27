@@ -31,7 +31,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 
 * Project lesson evaluation summary
 * Internship lesson evaluation summary
-* 
+
 ## _Autumn Semester Courses 1399/2020_
 
 ## _Day and hour of lessons_
