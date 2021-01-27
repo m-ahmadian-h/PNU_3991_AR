@@ -15,10 +15,10 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    
 * __Certificates__
    * __Jlord Patchwork__
-   * ![HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/html.logo.png)__[HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/html.pdf)__
-   * ![CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/css.logo.png)__CSS__
-   * ![JS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/JS.logo.png)__Javascript__
-   * ![PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/php.logo.png)__PHP__
+   * ![HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/html.pdf)__
+   * ![CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/css.logo.png)__CSS__
+   * ![JS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/JS.logo.png)__Javascript__
+   * ![PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/php.logo.png)__PHP__
    
 * __Courses__
    * __Bachelor Project__
