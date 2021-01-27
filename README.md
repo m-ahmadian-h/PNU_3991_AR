@@ -9,8 +9,8 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       * __[PNU_3991_AR](https://github.com/m-ahmadian-h/PNU_3991_AR)__
       
 * __[ME](https://github.com/m-ahmadian-h)__
-   * __[Resume](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/resume.pdf)__
-   * __[SOP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/SOP.pdf)__
+   * __[Resume](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/resume.pdf)__
+   * __[SOP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/SOP.pdf)__
    * __~~[Site](https://expertmql4.ir/)~~__
    
 * __Certificates__
