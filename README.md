@@ -23,14 +23,21 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 * __Courses__
    * __Bachelor Project__
    * __The internship__
- 
-
-## _Public section_
 
 ## _Undergraduate course_
 
 * Project lesson evaluation summary
 * Internship lesson evaluation summary
+
+## _Evaluations_
+
+* __Public section__
+   * __CV CheckList__
+   * __General Section CheckList__
+   
+* __Specialized section__
+   * __Project lesson__
+   * __Internship lesson__
 
 ## _Autumn Semester Courses 1399/2020_
 
