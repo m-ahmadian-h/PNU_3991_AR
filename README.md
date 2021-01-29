@@ -26,6 +26,15 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * __Bachelor Project__
    * __The internship__
 
+* ___Evaluations___
+
+   * __Public section__
+      * __CV CheckList__
+      * __General Section CheckList__
+   
+   * __Specialized section__
+      * __Project lesson__
+      * __Internship lesson__
 ***
 
 ## _Evaluations_
