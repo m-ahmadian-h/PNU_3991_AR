@@ -51,4 +51,4 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 |Course              |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
 |:------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
 |__Bachelor Project__|19 - 20|19 - 20|19 - 20| 19 - 20 |        |      | 19 - 20|
-|__The internship__  |9 - 13 | 9 - 13| 9 - 13| 9 - 13  |        |      | 9 - 13 |
+|__The internship__  |:clock9:9 - 13 |:clock9:9 - 13|:clock9:9 - 13|:clock9:9 - 13  |        |      |:clock9:9 - 13 |
