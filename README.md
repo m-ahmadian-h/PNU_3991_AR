@@ -29,11 +29,11 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 
 * ___[Evaluations](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)___
 
-   * __Public section__
+   * __[Public section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)__
       * __[CV CheckList](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/XX_CV_CheckList_AR_3991.pdf)__
       * __[General Section CheckList](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/XX_GeneralSection_CheckList_AR_3991.pdf)__
    
-   * __Specialized section__
+   * __[Specialized section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)__
       * __Project lesson__
       * __Internship lesson__
 
