@@ -1,5 +1,7 @@
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/header.jpg" align="right" />
+
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif)
+
 # _PNU_3991_AR_ :wave:
 
 Summary of 7th semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering :computer:.
