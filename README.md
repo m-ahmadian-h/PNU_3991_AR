@@ -60,7 +60,3 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 telegram: @m_ahmadian_h
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="200" />
 
-
-
-
-:no_entry: :copyright: :no_entry:
