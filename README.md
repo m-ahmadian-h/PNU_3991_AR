@@ -3,7 +3,7 @@
 
 
 # _PNU_3991_AR_ :wave:
-<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="200" />
+<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="150" />
 Summary of 7th semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering :computer:.
 
 ***
@@ -13,7 +13,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 *  __[GitHub](https://github.com/m-ahmadian-h)__ :octocat: 
    * __[Repositories](https://github.com/m-ahmadian-h?tab=repositories)__
       * __[PNU_3991_AR](https://github.com/m-ahmadian-h/PNU_3991_AR)__
-      <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/01.gif" align="right" width="200" />
+      <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/01.gif" align="right" width="150" />
 * __[ME](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me)__ 
    * __[Resume](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/resume.pdf)__
    * __[SOP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/SOP.pdf)__
@@ -25,7 +25,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * ![CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/css.logo.png)__CSS__
    * ![JS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/JS.logo.png)__[Javascript](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/JS.jpg)__
    * ![PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/php.logo.png)__PHP__
-   <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/02.gif" align="right"  width="200" />
+   <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/02.gif" align="right"  width="150" />
 * __[Courses](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses)__
    * __Bachelor Project__
    * __The internship__
@@ -39,7 +39,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * __[Specialized section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)__
       * __Project lesson__
       * __Internship lesson__
-      <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/03.gif" align="right" width="200" />
+      <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/03.gif" align="right" width="150" />
 
 ***
 
@@ -59,5 +59,5 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 
 ***
 __Telegram: @m_ahmadian_h__
-<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="200" />
+<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
 
