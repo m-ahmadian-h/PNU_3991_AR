@@ -58,6 +58,6 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 
 ***
 
-<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="center" width="500" height="250" />
+<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" margin="25px auto" width="500" height="200" />
 
 :no_entry: :copyright: :no_entry:
