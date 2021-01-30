@@ -1,4 +1,4 @@
-<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right" / width="200">
+<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="200" />
 
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif)
 
