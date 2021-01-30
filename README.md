@@ -1,13 +1,13 @@
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif)
 # _PNU_3991_AR_ :wave:
 
-Summary of 7th semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering:computer:.
+Summary of 7th semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering :computer:.
 
 ***
 
 ## _Table of Contents_ :mag_right:
 
-*  __[GitHub](https://github.com/m-ahmadian-h)__
+*  __[GitHub](https://github.com/m-ahmadian-h)__ :octocat:
    * __[Repositories](https://github.com/m-ahmadian-h?tab=repositories)__
       * __[PNU_3991_AR](https://github.com/m-ahmadian-h/PNU_3991_AR)__
       
