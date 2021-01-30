@@ -57,7 +57,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 |:clock9:__The internship__:clock1:  |9 - 13 |9 - 13 |9 - 13 |9 - 13   |        |      |9 - 13  |
 
 ***
-
-<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" margin="25px 100px" width="500" height="200" />
+telegram: @m_ahmadian_h
+<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="500" height="200" />
 
 :no_entry: :copyright: :no_entry:
