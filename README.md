@@ -14,10 +14,10 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * __[Repositories](https://github.com/m-ahmadian-h?tab=repositories)__
       * __[PNU_3991_AR](https://github.com/m-ahmadian-h/PNU_3991_AR)__
       
-* __[ME](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me)__ 
-   * __[Resume](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/resume.pdf)__
-   * __[SOP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/SOP.pdf)__
-   * __~~Site~~__ :no_entry:
+> __[ME](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me)__ 
+- __[Resume](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/resume.pdf)__
+- __[SOP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/SOP.pdf)__
+- __~~Site~~__ :no_entry:
    
 * __[Certificates](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Certificates)__ <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/02.gif" align="right"  width="150" />
    * __[Jlord Patchwork](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/Jlord%20Patchwork.pdf)__
