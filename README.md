@@ -2,7 +2,7 @@
 
 
 
-# _PNU_3991_AR_ :wave:
+# _PNU_3991_AR_ :wave: 
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="150" />
 Summary of 7th semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering In internship courses and undergraduate project :computer:.
 
@@ -22,9 +22,9 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 * __[Certificates](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Certificates)__ <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/02.gif" align="right"  width="150" />
    * [x] __[Jlord Patchwork](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/Jlord%20Patchwork.pdf)__
    * [x] ![HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/html.pdf)__
-   * [ ] ![CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/css.logo.png)__CSS__
+   * [ ] ![CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/css.logo.png)__CSS__ :soon:
    * [x] ![JS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/JS.logo.png)__[Javascript](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/JS.jpg)__
-   * [ ] ![PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/php.logo.png)__PHP__
+   * [ ] ![PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/php.logo.png)__PHP__ :soon:
    
 * __[Courses](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses)__ <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/03.gif" align="right" width="150" />
    * __[Bachelor Project](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Bachelor%20Project)__
@@ -58,6 +58,6 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 |__The internship__   :clock9: :clock1:  |9 - 13 |9 - 13 |9 - 13 |9 - 13   |:zzz:   |:zzz: |9 - 13  |
 
 ***
-__Telegram: @m_ahmadian_h__
+__[Telegram: @m_ahmadian_h](https://telegram.me/m_ahmadian_h)__ :no_entry:
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
 
