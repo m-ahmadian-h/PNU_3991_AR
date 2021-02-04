@@ -28,12 +28,14 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * [ ] ![PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/php.logo.png)__PHP__ :soon:
    
 * __[Courses](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses)__ <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/03.gif" align="right" width="150" />
-   * __[Bachelor Project](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Bachelor%20Project)__
+   * __[Undergraduate project](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Bachelor%20Project)__
+      * [ ] __Forms__ :soon:
       * [ ] __Report__     :soon:
       * [ ] __Documents__  :soon:
       * [ ] __Evaluation__ :soon:
       
    * __[The internship](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)__
+      * [ ] __Forms__ :soon:
       * [ ] __Report__     :soon:
       * [ ] __Documents__  :soon:
       * [ ] __Evaluation__ :soon:
@@ -62,7 +64,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 
 |Course                                  |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
 |:--------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
-|__Bachelor Project__   :clock7: :clock8:|19 - 20|19 - 20|19 - 20|19 - 20  |:zzz:   |:zzz: |19 - 20 |
+|__Undergraduate project__   :clock7: :clock8:|19 - 20|19 - 20|19 - 20|19 - 20  |:zzz:   |:zzz: |19 - 20 |
 |__The internship__   :clock9: :clock1:  |9 - 13 |9 - 13 |9 - 13 |9 - 13   |:zzz:   |:zzz: |9 - 13  |
 
 ***
