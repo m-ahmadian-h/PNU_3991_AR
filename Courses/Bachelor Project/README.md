@@ -4,8 +4,9 @@
 
 # _Bachelor Project_ :wave: 
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="150" />
-In this section, we will briefly review my performance in relation to the bachelor Project
- course.
+In this section, we will briefly review my performance in relation to the bachelor Project course.
+In the bachelor Project course, I tried to put into practice what I had learned most during my undergraduate course and show it to Professor Razavi. My project is about the relationship between artificial intelligence and the largest capital market (forex). I tried to use artificial intelligence to slightly increase the chances of predicting the forex.
+In the end, I am very grateful to Master Razavi for all his help to me, which made me progress tens of steps in relation to what I have learned.
 
 ***
 
