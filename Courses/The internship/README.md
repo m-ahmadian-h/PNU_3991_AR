@@ -2,7 +2,7 @@
 
 
 
-# _Bachelor Project_ :wave: 
+# _The internship_ :wave: 
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="150" />
 In this section, we will briefly review my performance in relation to the The internship course.
 
