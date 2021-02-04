@@ -5,6 +5,8 @@
 # _The internship_ :wave: 
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="150" />
 In this section, we will briefly review my performance in relation to the The internship course.
+In my internship, I first entered the real work environment and work community and then gained some experience. Finally, I implemented a practical project to showcase my achievements during this internship.
+In the end, I am very grateful to Master Razavi for all his help to me, which made me progress tens of steps in relation to what I have learned.
 
 ***
 
