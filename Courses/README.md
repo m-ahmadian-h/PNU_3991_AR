@@ -29,8 +29,8 @@ In this section, I have shown a summary of my performance in internship and proj
 |__The internship__   :clock9: :clock1:  |9 - 13 |9 - 13 |9 - 13 |9 - 13   |:zzz:   |:zzz: |9 - 13  |
 
 ***
-__[Telegram: @m_ahmadian_h](https://telegram.me/m_ahmadian_h)__ :no_entry:
-
 __[WhatsApp: @mhmd](https://wa.me/+989215166403)__ 
+
+__[Telegram: @m_ahmadian_h](https://telegram.me/m_ahmadian_h)__ :no_entry:
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
 
