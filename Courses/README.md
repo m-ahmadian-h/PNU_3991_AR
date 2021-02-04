@@ -11,8 +11,7 @@ In this section, I have shown a summary of my performance in internship and proj
    * [ ] __Forms__ :soon:
    * [ ] __Report__     :soon:
    * [ ] __Documents__  :soon:
-   * [ ] __Evaluation__ :soon:
-   
+   * [ ] __Evaluation__ :soon: <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/05.gif" align="right" width="150" />
 * __[The internship](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)__
    * [ ] __Forms__ :soon:
    * [ ] __Report__     :soon:
