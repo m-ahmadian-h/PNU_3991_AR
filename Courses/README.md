@@ -7,7 +7,7 @@ In this section, I have shown a summary of my performance in internship and proj
 ***
 
 ## _Table of Contents_ :mag_right:
-* __[Undergraduate project](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Bachelor%20Project)__
+* __[Undergraduate project](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project)__
    * [ ] __Forms__ :soon:
    * [ ] __Report__     :soon:
    * [ ] __Documents__  :soon:
