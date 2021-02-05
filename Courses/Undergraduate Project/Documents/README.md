@@ -7,10 +7,10 @@ Examples of activities performed in the project lesson.
 ***
 
 ## _Table of Contents_ :mag_right:
-* [Data.v2](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/datav2.py)
-* [eurusd](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/eurusd.py)
-* [multiLSTM](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/multilstm.py)
-* [ta-tin](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/ta-tin.py)
+* __[Data.v2](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/datav2.py)__
+* __[eurusd](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/eurusd.py)__
+* __[multiLSTM](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/multilstm.py)__
+* __[ta-tin](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/ta-tin.py)__
 
 ***
 
