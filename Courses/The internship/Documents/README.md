@@ -7,12 +7,12 @@ Examples of activities performed in the internship course.
 ***
 
 ## _Table of Contents_ :mag_right:
-* [Index](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/index.html)
-* [Style](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/style.css)
-* [Profile](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/profile.html)
-* [Help(html)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/help.html)
-* [Help(css)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/help.css)
-* [Settings](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/settings.html)
+* __[Index](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/index.html)__
+* __[Style](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/style.css)__
+* __[Profile](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/profile.html)__
+* __[Help(html)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/help.html)__
+* __[Help(css)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/help.css)__
+* __[Settings](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/settings.html)__
 
 ***
 
