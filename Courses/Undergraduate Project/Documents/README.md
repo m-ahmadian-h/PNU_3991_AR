@@ -18,6 +18,9 @@ Examples of activities performed in the project lesson.
 * __[MCPT EURUSD](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/MCPT%20EURUSD.mq4)__
 * __[Professional Trending](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/Professional%20Trending.mq4)__
 * __[The Best](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/The%20Best.mq4)__
+* __[tutorial_13_dqn](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/tutorial_13_dqn.py)__
+* __[plot_kmeans_torch](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/plot_kmeans_torch.py)__
+* __[gym_envs_1_preamble_evn_list](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/gym_envs_1_preamble_evn_list.py)__
 
 ***
 
