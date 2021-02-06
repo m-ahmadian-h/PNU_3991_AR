@@ -11,6 +11,9 @@ Examples of activities performed in the project lesson.
 * __[eurusd](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/eurusd.py)__
 * __[multiLSTM](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/multilstm.py)__
 * __[ta-tin](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/ta-tin.py)__
+* __[ATR](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/ATR.mq4)__
+* __[Momentum](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/Momentum.mq4)__
+* __[MovingAverage](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/Moving%20Average.mq4)__
 
 ***
 
