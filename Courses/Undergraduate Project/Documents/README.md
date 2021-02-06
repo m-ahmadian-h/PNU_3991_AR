@@ -14,7 +14,7 @@ Examples of activities performed in the project lesson.
 * __[ATR](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/ATR.mq4)__
 * __[Momentum](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/Momentum.mq4)__
 * __[MovingAverage](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/Moving%20Average.mq4)__
-* __[FPP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/FPP.mq4)__
+* __[KNN](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/knn.cpp)__
 * __[MCPT EURUSD](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/MCPT%20EURUSD.mq4)__
 * __[Professional Trending](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/Professional%20Trending.mq4)__
 * __[The Best](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Documents/The%20Best.mq4)__
