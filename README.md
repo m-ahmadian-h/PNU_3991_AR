@@ -62,6 +62,6 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 ***
 __[WhatsApp: @mhmd](https://wa.me/+989215166403)__ 
 
-__[Telegram: @Fx_programmer](https://telegram.me/m_ahmadian_h)__ :no_entry:
+__[Telegram: @Fx_programmer](https://telegram.me/Fx_programmer)__ :no_entry:
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
 
