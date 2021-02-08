@@ -30,6 +30,6 @@ In this section, I have shown a summary of my performance in internship and proj
 ***
 __[WhatsApp: @mhmd](https://wa.me/+989215166403)__ 
 
-__[Telegram: @m_ahmadian_h](https://telegram.me/m_ahmadian_h)__ :no_entry:
+__[Telegram: @Fx_programmer](https://telegram.me/Fx_programmer)__ :no_entry:
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
 
