@@ -19,7 +19,7 @@ Summary of resume and SOP
 
 |Course                                       |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
 |:-------------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
-|__Undergraduate project__   :clock7: :clock8:|19 - 20|19 - 20|19 - 20|19 - 20  |:zzz:   |:zzz: |19 - 20 |
+|__Undergraduate project__ :clock7: :clock8:  |19 - 20|19 - 20|19 - 20|19 - 20  |:zzz:   |:zzz: |19 - 20 |
 |__The internship__   :clock9: :clock1:       |9 - 13 |9 - 13 |9 - 13 |9 - 13   |:zzz:   |:zzz: |9 - 13  |
 
 ***
