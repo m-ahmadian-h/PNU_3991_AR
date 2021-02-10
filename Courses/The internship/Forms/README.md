@@ -2,7 +2,7 @@
 
 
 
-# _The internship_ :wave: 
+# _The internship forms_ :wave: 
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="150" />
 Internship forms
 
