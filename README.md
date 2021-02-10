@@ -48,7 +48,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    
    * __[Specialized section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)__
       * __Project lesson__ :soon:
-      * __Internship lesson__ :soon:
+      * __[Internship lesson](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)__
       
 ***
 
