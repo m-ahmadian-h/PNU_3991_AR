@@ -24,7 +24,7 @@ Summary of evaluations of my performance this semester
 |Course                                       |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
 |:-------------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
 |__Undergraduate project__   :clock7: :clock8:|19 - 20|19 - 20|19 - 20|19 - 20  |:zzz:   |:zzz: |19 - 20 |
-|__The internship__   :clock9: :clock1:       |8 - 13 |8 - 13 |8 - 13 |8 - 13   |:zzz:   |:zzz: |8 - 13  |
+|__The internship__   :clock8: :clock1:       |8 - 13 |8 - 13 |8 - 13 |8 - 13   |:zzz:   |:zzz: |8 - 13  |
 
 ***
 __[WhatsApp: @mhmd](https://wa.me/+989215166403)__ 
