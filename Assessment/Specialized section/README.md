@@ -11,7 +11,7 @@ Summary of my performance evaluation this semester in the Specialized section.
 ## _Table of Contents_ :mag_right:
 
    * __Project lesson__ :soon:
-   * __Internship lesson__ :soon:
+   * __[Internship lesson](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)__
    
 
 ***
