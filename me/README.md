@@ -15,7 +15,7 @@ Summary of resume and SOP
 
 ***
 
-## _Day and hour of lessons_
+## _Day and hour of lessons_ :alarm_clock:
 
 |Course                                       |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
 |:-------------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
