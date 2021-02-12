@@ -58,7 +58,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       
 ***
 
-## _Day and hour of lessons_
+## _Day and hour of lessons_ :alarm_clock:
 
 |Course                                     |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
 |:-----------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
