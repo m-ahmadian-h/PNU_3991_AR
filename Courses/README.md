@@ -20,7 +20,7 @@ In this section, I have shown a summary of my performance in internship and proj
 
 ***
 
-## _Day and hour of lessons_
+## _Day and hour of lessons_ :alarm_clock:
 
 |Course                                       |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
 |:-------------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
