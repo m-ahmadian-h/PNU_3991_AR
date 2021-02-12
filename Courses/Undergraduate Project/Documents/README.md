@@ -24,7 +24,7 @@ Examples of activities performed in the project lesson.
 
 ***
 
-## _Day and hour of lessons_
+## _Day and hour of lessons_ :alarm_clock:
 
 |Course                                       |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
 |:-------------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
