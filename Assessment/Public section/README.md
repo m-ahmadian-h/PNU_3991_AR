@@ -2,7 +2,7 @@
 
 
 
-# _Assessment_ :wave: 
+# _Public Sector Evaluation_ :wave: 
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="150" />
 Summary of my performance evaluation this semester in the public section.
 
