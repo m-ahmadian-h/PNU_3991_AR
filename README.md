@@ -16,13 +16,13 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       * __[Internship](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship/1322029_02/01_%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D8%AD%D9%85%D8%AF%D9%8A%D8%A7%D9%86%20%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF)__
       * __[Project](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1115098_02/01_%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D8%AD%D9%85%D8%AF%D9%8A%D8%A7%D9%86%20%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF)__
       
-:small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
 * __[ME](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me)__ 
    * __[Resume](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/resume.pdf)__
    * __[SOP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/SOP.pdf)__
    * __~~Site~~__ :soon:
 
-:small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
 * __[Certificates](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Certificates)__ <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/02.gif" align="right"  width="150" />
    * [x] __[Jlord Patchwork](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/Jlord%20Patchwork.pdf)__
    * [x] ![HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/html.pdf)__
@@ -31,7 +31,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * [ ] ![PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/php.logo.png)__PHP__ :soon:
    * [x] __[Internship](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Forms/03.jpg)__
 
-:small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
 * __[Courses](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses)__ <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/03.gif" align="right" width="150" />
    * __[Undergraduate project](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project)__
       * [ ] __Forms__ :soon:
@@ -48,7 +48,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       * [x] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Documents)__ :books:
       * [x] __[Evaluation](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)__
 
-:small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
 * __[Evaluations](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)__ 
 
    * __[Public section](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Public%20section/README.md)__
@@ -59,7 +59,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       * __Project lesson__ :soon:
       * __[Internship lesson](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)__
 
-:small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
 * __[References](https://github.com/AliRazavi-edu/PNU_3991)__
    * __[Public activities](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project#%D8%B3%DB%8C%D8%A7%D9%87%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AF%D8%B1%D8%B3)__
    * __[Online internship courses](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship#%D9%85%D9%86%D8%A7%D8%A8%D8%B9)__
