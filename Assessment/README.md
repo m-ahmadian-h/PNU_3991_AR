@@ -9,7 +9,7 @@ Summary of evaluations of my performance this semester
 ***
 
 ## _Table of Contents_ :mag_right:
-* __[Public section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)__
+* __[Public section](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Public%20section/README.md)__
    * __[CV CheckList](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/MA_CV_CheckList_AR_3991.pdf)__
    * __[General Section CheckList](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/MA_GeneralSection_CheckList_AR_3991.pdf)__
    
