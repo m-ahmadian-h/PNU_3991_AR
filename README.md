@@ -56,6 +56,13 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       * __Project lesson__ :soon:
       * __[Internship lesson](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)__
       
+* __[References](https://github.com/AliRazavi-edu/PNU_3991)__
+   * __[Public activities](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project#%D8%B3%DB%8C%D8%A7%D9%87%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AF%D8%B1%D8%B3)__
+   * __[Online internship courses](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship#%D9%85%D9%86%D8%A7%D8%A8%D8%B9)__
+   * __[Internship forms](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/Internship/PNU_BSc_Internship_Forms.zip)__
+
+
+      
 ***
 
 ## _Day and hour of lessons_ :alarm_clock:
