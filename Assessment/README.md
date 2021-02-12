@@ -13,7 +13,7 @@ Summary of evaluations of my performance this semester
    * __[CV CheckList](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/MA_CV_CheckList_AR_3991.pdf)__
    * __[General Section CheckList](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/MA_GeneralSection_CheckList_AR_3991.pdf)__
    
-* __[Specialized section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)__
+* __[Specialized section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment/Specialized%20section)__
    * __Project lesson__ :soon:
    * __Internship lesson__ :soon:
 
