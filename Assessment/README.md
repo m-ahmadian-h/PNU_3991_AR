@@ -15,7 +15,7 @@ Summary of evaluations of my performance this semester
    
 * __[Specialized section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment/Specialized%20section)__
    * __Project lesson__ :soon:
-   * __Internship lesson__ :soon:
+   * __[Internship lesson](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)__
 
 ***
 
