@@ -18,7 +18,7 @@ In the end, I am very grateful to Master Razavi for all his help to me, which ma
 
 ***
 
-## _Day and hour of lessons_
+## _Day and hour of lessons_ :alarm_clock:
 
 |Course                                       |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
 |:-------------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
