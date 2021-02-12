@@ -34,6 +34,8 @@ Examples of activities performed in the project lesson.
 ***
 __[WhatsApp: @mhmd](https://wa.me/+989215166403)__ 
 
-__[Telegram: @Fx_programmer](https://telegram.me/Fx_programmer)__ :no_entry:
+__[Telegram: @Fx_programmer](https://telegram.me/Fx_programmer)__
+
+__[Email](mailto:m.ahmadian.h@gmail.com): m.ahmadian.h@gmail.com__
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
 
