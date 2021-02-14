@@ -9,7 +9,7 @@ Brief report of activities performed
 ***
 
 ## _Table of Contents_ :mag_right:
-* [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Report/Report.pdf)__
+* [x] __[Report forms](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Report/Report.pdf)__
 * [x] __[Report](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Report/Internship%20Report%20.pdf)__
 
 ***
