@@ -8,9 +8,9 @@ Certificates taken this semester
 
 ***
 
-## _Table of Contents_ :mag_right:
-* [x] __[Jlord Patchwork](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/Jlord%20Patchwork.pdf)__
-* [x] ![HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/html.pdf)__
+## _Table of Contents_ :mag_right: 
+* [x] __[Jlord Patchwork](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/Jlord%20Patchwork.pdf)__ 
+* [x] ![HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/html.pdf)__ <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/02.gif" align="right"  width="140" />
 * [x] ![CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/css.logo.png)__[CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/CSS.JPG)__
 * [x] ![JS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/JS.logo.png)__[Javascript](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/JS.jpg)__
 * [ ] ![PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/php.logo.png)__PHP__ :soon:
