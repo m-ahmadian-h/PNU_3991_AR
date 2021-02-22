@@ -25,7 +25,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * __~~Site~~__ :soon:
 
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
-* __[Certificates](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Certificates)__ 
+* __[Certificates](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Certificates)__  :trophy:
    * [x] __[Jlord Patchwork](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/Jlord%20Patchwork.pdf)__
    * [x] ![HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/html.pdf)__
    * [x] ![CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/css.logo.png)__[CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/CSS.JPG)__
