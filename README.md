@@ -42,7 +42,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       * [ ] __Evaluation__ :soon:
       
    * __[The internship](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)__
-      * [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Forms)__
+      * [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Forms)__ :clipboard:
          * [x] __[Introduction letter](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Forms/01.jpg)__
          * [x] __[Attendance time](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Forms/02.jpg)__
          * [x] __[Certificate](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Forms/03.jpg)__
@@ -69,8 +69,8 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 * __[References](https://github.com/AliRazavi-edu/PNU_3991)__
    * __[Public activities](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project#%D8%B3%DB%8C%D8%A7%D9%87%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AF%D8%B1%D8%B3)__
    * __[Online internship courses](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship#%D9%85%D9%86%D8%A7%D8%A8%D8%B9)__
-   * __[Internship forms](https://github.com/AliRazavi-edu/PNU_3991/raw/master/_BSc/Internship/PNU_BSc_Internship_Forms.zip)__
-   * __[project forms](http://pnu.ac.ir/portal/file/?1072267/attachments-fgtnbdcl.zip)__
+   * __[Internship forms](https://github.com/AliRazavi-edu/PNU_3991/raw/master/_BSc/Internship/PNU_BSc_Internship_Forms.zip)__ :clipboard:
+   * __[project forms](http://pnu.ac.ir/portal/file/?1072267/attachments-fgtnbdcl.zip)__ :clipboard:
 
       
 ***
