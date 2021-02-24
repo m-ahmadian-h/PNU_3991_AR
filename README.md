@@ -1,11 +1,11 @@
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif) 
 
 [![ME](https://img.shields.io/badge/ME-95-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me)
-[![Certificates](https://img.shields.io/badge/Certificates-100-orange)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Certificates)
+[![Certificates](https://img.shields.io/badge/Certificates-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Certificates)
 [![project](https://img.shields.io/badge/project-80-green)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project)
-[![internship](https://img.shields.io/badge/internship-100-yellow)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)
-[![Evaluations](https://img.shields.io/badge/Evaluations-75-brightgreen)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)
-[![References](https://img.shields.io/badge/References-80-red)](https://github.com/AliRazavi-edu/PNU_3991)
+[![internship](https://img.shields.io/badge/internship-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)
+[![Evaluations](https://img.shields.io/badge/Evaluations-75-green)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)
+[![References](https://img.shields.io/badge/References-80-green)](https://github.com/AliRazavi-edu/PNU_3991)
 
 # _PNU_3991_AR_ :wave:
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="140" />
