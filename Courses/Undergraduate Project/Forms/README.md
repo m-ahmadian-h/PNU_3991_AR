@@ -4,7 +4,7 @@
 
 
 # _Undergraduate project_ :wave: 
-<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="150" />
+<img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="140" />
 Undergraduate project lesson forms
 
 ***
