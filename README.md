@@ -35,7 +35,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * [x] ![HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/html.pdf)__
    * [x] ![CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/css.logo.png)__[CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/CSS.JPG)__
    * [x] ![JS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/JS.logo.png)__[Javascript](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/JS.jpg)__
-   * [ ] ![PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/php.logo.png)__PHP__ :soon:
+   * [x] ![PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/php.logo.png)__[PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/PHP.jpg)__
    * [x] __[Internship](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Forms/03.jpg)__
 
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
