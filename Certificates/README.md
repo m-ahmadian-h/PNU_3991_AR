@@ -1,6 +1,11 @@
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif)
 
-
+[![Jlord Patchwork](https://img.shields.io/badge/JlordPatchwork-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/Jlord%20Patchwork.pdf)
+[![HTML](https://img.shields.io/badge/HTML-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/html.pdf)
+[![CSS](https://img.shields.io/badge/CSS-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/CSS.JPG)
+[![JS](https://img.shields.io/badge/JS-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/JS.jpg)
+[![PHP](https://img.shields.io/badge/PHP-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/PHP.jpg)
+[![Internship](https://img.shields.io/badge/Internship-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Forms/03.jpg)
 
 # _Certificates_ :wave: 
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="140" />
