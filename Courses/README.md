@@ -1,5 +1,8 @@
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif)
 
+[![project](https://img.shields.io/badge/project-75-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project)
+[![internship](https://img.shields.io/badge/internship-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)
+
 # _Courses_ :wave:
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="140" />
 In this section, I have shown a summary of my performance in internship and project.
