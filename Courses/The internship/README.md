@@ -1,6 +1,9 @@
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif)
 
-
+[![Forms](https://img.shields.io/badge/Forms-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Forms)
+[![Report](https://img.shields.io/badge/Report-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Report)
+[![Documents](https://img.shields.io/badge/Documents-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Documents)
+[![Evaluation](https://img.shields.io/badge/Evaluation-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)
 
 # _The internship_ :wave: 
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="140" />
