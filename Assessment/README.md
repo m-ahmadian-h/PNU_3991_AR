@@ -1,6 +1,7 @@
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif)
 
-
+[![Public section](https://img.shields.io/badge/PublicSection-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Public%20section/README.md)
+[![Specialized section](https://img.shields.io/badge/SpecializedSection-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment/Specialized%20section)
 
 # _Assessment_ :wave: 
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="140" />
