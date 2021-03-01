@@ -13,7 +13,7 @@ Summary of resume and SOP
 ## _Table of Contents_ :mag_right:
 * __[Resume](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/resume.pdf)__
 * __[SOP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/SOP.pdf)__
-* __~~Site~~__ :soon:
+* __Site__ :soon:
 
 ***
 
