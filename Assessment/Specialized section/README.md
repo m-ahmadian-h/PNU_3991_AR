@@ -1,6 +1,7 @@
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif)
 
-
+[![Project](https://img.shields.io/badge/Project-100-blue)]()
+[![Internship](https://img.shields.io/badge/Internship-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)
 
 # _Specialized Sector Evaluation_ :wave: 
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="140" />
