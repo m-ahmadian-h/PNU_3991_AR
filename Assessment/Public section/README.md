@@ -1,6 +1,7 @@
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif)
 
-
+[![CV](https://img.shields.io/badge/CV-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/MA_CV_CheckList_AR_3991.pdf)
+[![General](https://img.shields.io/badge/General-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/MA_GeneralSection_CheckList_AR_3991.pdf)
 
 # _Public Sector Evaluation_ :wave: 
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="140" />
