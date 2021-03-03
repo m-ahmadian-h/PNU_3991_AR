@@ -84,7 +84,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * __[Internship forms](https://github.com/AliRazavi-edu/PNU_3991/raw/master/_BSc/Internship/PNU_BSc_Internship_Forms.zip)__ 
    * __[project forms](http://pnu.ac.ir/portal/file/?1072267/attachments-fgtnbdcl.zip)__ 
 
-[<kbd>↩</kbd>](#logo)
+[:top:](#logo)
       
 ***
 
