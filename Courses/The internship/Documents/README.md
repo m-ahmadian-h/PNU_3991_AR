@@ -14,6 +14,8 @@ Examples of activities performed in the internship course.
 * __[Help(css)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/help.css)__
 * __[Settings](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/settings.html)__
 * __[Site](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/site.zip)__
+* __[js](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/js.js)__
+* __[Index(php)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Documents/index.php)__
 
 ***
 
