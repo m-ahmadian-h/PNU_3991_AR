@@ -50,7 +50,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       * [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Forms)__
       * [x] __[Report](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Report.pdf)__
       * [x] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Documents)__ :books:
-      * [ ] __Evaluation__ :soon:
+      * [ ] __Evaluation__(At the disposal of the master)
       
    * __[The internship](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)__
       * [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Forms)__ :clipboard:
@@ -73,7 +73,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       * __[General Section CheckList](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/MA_GeneralSection_CheckList_AR_3991.pdf)__
    
    * __[Specialized section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment/Specialized%20section)__
-      * __Project lesson__ :soon:
+      * __Project lesson__(At the disposal of the master)
       * __[Internship lesson](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)__
 
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
