@@ -104,4 +104,4 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
 
 <br><br>
-__<p align="center">life is a crafted narrative written by God</p>__
+<p align="center">life is a crafted narrative written by God</p>
