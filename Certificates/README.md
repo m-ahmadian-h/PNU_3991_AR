@@ -37,3 +37,6 @@ Certificates taken this semester
 
 ![gmail](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/gmail.svg)  __[Email](mailto:m.ahmadian.h@gmail.com): m.ahmadian.h@gmail.com__
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
+
+<br><br>
+<p align="center">life is a crafted narrative written by God</p>
