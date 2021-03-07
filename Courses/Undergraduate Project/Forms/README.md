@@ -13,11 +13,11 @@ Undergraduate project lesson forms
 ***
 
 ## _Table of Contents_ :mag_right:
-* [x] [The first  page](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Forms/01.jpg)
-* [x] [The second page](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Forms/02.jpg)
-* [x] [The third  page](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Forms/03.jpg)
-* [x] [The fourth page](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Forms/04.jpg)
-* [x] [The Fifth  page](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Forms/05.jpg)
+* [x] __[The first  page](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Forms/01.jpg)__
+* [x] __[The second page](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Forms/02.jpg)__
+* [x] __[The third  page](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Forms/03.jpg)__
+* [x] __[The fourth page](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Forms/04.jpg)__
+* [x] __[The Fifth  page](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Forms/05.jpg)__
 
 ***
 
