@@ -50,7 +50,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       * [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Forms)__
       * [x] __[Report](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Report.pdf)__
       * [x] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Documents)__ :books:
-      * [ ] __Evaluation__(At the disposal of the master)
+      * [x] __Evaluation__(At the disposal of the master)
       
    * __[The internship](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)__
       * [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Forms)__ :clipboard:
