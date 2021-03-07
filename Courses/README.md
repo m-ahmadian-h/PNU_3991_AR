@@ -1,6 +1,6 @@
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif)
 
-[![project](https://img.shields.io/badge/project-75-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project)
+[![project](https://img.shields.io/badge/project-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project)
 [![internship](https://img.shields.io/badge/internship-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)
 
 # _Courses_ :wave:
