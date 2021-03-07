@@ -14,7 +14,7 @@ In this section, I have shown a summary of my performance in internship and proj
    * [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Forms)__
    * [x] __[Report](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Report.pdf)__ 
    * [x] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Documents)__ :books:
-   * [ ] __Evaluation__ :soon: <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/05.gif" align="right" width="140" />
+   * [x] __Evaluation__(At the disposal of the master) <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/05.gif" align="right" width="140" />
 * __[The internship](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)__
    * [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Forms)__
    * [x] __[Report](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Report)__
