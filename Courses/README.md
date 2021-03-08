@@ -39,5 +39,5 @@ In this section, I have shown a summary of my performance in internship and proj
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
 
 
-<br><br>
+<br><br><br>
 <p align="center">life is a crafted narrative written by God</p>
